@@ -9,5 +9,7 @@ sikou12=11;
 chgmt main=13;
 chgmt sikou2=13;
 chgmt mainloc =124;
+chgmtmaingithub=11111;
+
 
 
